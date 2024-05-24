@@ -10,7 +10,7 @@ This is a Next.js application that allows users to create, read, and delete todo
 
 ## Project Structure
 The project is structured as follows:
-.
+```
 ├── README.md
 ├── app
 │   ├── components
@@ -40,7 +40,7 @@ The project is structured as follows:
 │   └── vercel.svg
 ├── tailwind.config.ts
 └── tsconfig.json
-
+```
 1 directory, 20 files
 ## How it Works
 
